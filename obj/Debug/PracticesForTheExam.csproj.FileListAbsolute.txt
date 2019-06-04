@@ -1,0 +1,7 @@
+C:\VSRepositories\practicesFortheExamREPO\bin\Debug\PracticesForTheExam.exe.config
+C:\VSRepositories\practicesFortheExamREPO\bin\Debug\PracticesForTheExam.exe
+C:\VSRepositories\practicesFortheExamREPO\bin\Debug\PracticesForTheExam.pdb
+C:\VSRepositories\practicesFortheExamREPO\obj\Debug\PracticesForTheExam.csprojAssemblyReference.cache
+C:\VSRepositories\practicesFortheExamREPO\obj\Debug\PracticesForTheExam.csproj.CoreCompileInputs.cache
+C:\VSRepositories\practicesFortheExamREPO\obj\Debug\PracticesForTheExam.exe
+C:\VSRepositories\practicesFortheExamREPO\obj\Debug\PracticesForTheExam.pdb
