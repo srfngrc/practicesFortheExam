@@ -22,6 +22,7 @@ namespace PracticesForTheExam
 
             // Call solution 2
             getSomething();
+            //yayayyaya
 
             // Makes the console wait for input
             Console.ReadKey();
