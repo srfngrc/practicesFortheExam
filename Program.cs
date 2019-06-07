@@ -18,11 +18,15 @@ namespace PracticesForTheExam
         {
             // Test your methods here
             // Calling solution 1
-            getGreatestValue();
+            //getGreatestValue();
 
             // Call solution 2
-            getSomething();
+            //getSomething();
             //yayayyaya
+
+            MismoDiaExamen();
+
+
 
             // Makes the console wait for input
             Console.ReadKey();
@@ -86,6 +90,11 @@ namespace PracticesForTheExam
             Console.WriteLine("Greatest value is " + greatestVal.ToString());
 
             return greatestVal;
+        }
+
+        public static void MismoDiaExamen()
+        {
+
         }
 
     }

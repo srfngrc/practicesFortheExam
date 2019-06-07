@@ -5,3 +5,10 @@ C:\VSRepositories\practicesFortheExamREPO\obj\Debug\PracticesForTheExam.csprojAs
 C:\VSRepositories\practicesFortheExamREPO\obj\Debug\PracticesForTheExam.csproj.CoreCompileInputs.cache
 C:\VSRepositories\practicesFortheExamREPO\obj\Debug\PracticesForTheExam.exe
 C:\VSRepositories\practicesFortheExamREPO\obj\Debug\PracticesForTheExam.pdb
+C:\VSRepositories\TestAppGitHubSRFN\practicesFortheExam\bin\Debug\PracticesForTheExam.exe.config
+C:\VSRepositories\TestAppGitHubSRFN\practicesFortheExam\bin\Debug\PracticesForTheExam.exe
+C:\VSRepositories\TestAppGitHubSRFN\practicesFortheExam\bin\Debug\PracticesForTheExam.pdb
+C:\VSRepositories\TestAppGitHubSRFN\practicesFortheExam\obj\Debug\PracticesForTheExam.csprojAssemblyReference.cache
+C:\VSRepositories\TestAppGitHubSRFN\practicesFortheExam\obj\Debug\PracticesForTheExam.csproj.CoreCompileInputs.cache
+C:\VSRepositories\TestAppGitHubSRFN\practicesFortheExam\obj\Debug\PracticesForTheExam.exe
+C:\VSRepositories\TestAppGitHubSRFN\practicesFortheExam\obj\Debug\PracticesForTheExam.pdb
