@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Class.NewCsharpClass;
 
 namespace PracticesForTheExam
 {
@@ -24,8 +25,8 @@ namespace PracticesForTheExam
             //getSomething();
             //yayayyaya
 
-            MismoDiaExamen();
-
+            //MismoDiaExamen();
+            NewCsharpClass();
 
 
             // Makes the console wait for input
@@ -95,6 +96,34 @@ namespace PracticesForTheExam
         public static void MismoDiaExamen()
         {
 
+            int[] newNameOfAnArray = new int[50];
+            double[] NNOAA2 = {1.0,2.02};
+            DateTime[] NNOAA3 = DateTime[20];
+
+
+
+            int variableProvisional1 = 1;
+            Console.WriteLine("mete un string de lo que sea: ");
+            int EnteredSentence;
+            if (int.TryParse(Console.ReadLine(), out EnteredSentence))
+                Console.WriteLine("correcto!");
+            else Console.WriteLine("error en el TryParse");
+
+            Console.WriteLine("Now I print the sentenced just entered:   " + EnteredSentence.ToString());
+
+            while (variableProvisional1 < 100)
+            {
+                Console.WriteLine("Vamos contando por... " + variableProvisional1);
+                Console.WriteLine("Siendo ahorita mismo la hora.min.seg.miliseg del dia:  " + DateTime.Now.ToString("hh.mm.ss.ff"));
+                if (DateTime.Now.ToString("hh") == "02")
+                {
+                    Console.WriteLine("En este caso son las 2. Hora de comer. Seguiré a partir de las 3. Ahora Paro");
+                    Console.WriteLine("Imprimo el caracter ASCII de esta hora    " + (char)variableProvisional1);
+                    break;
+                }
+                else continue;
+                variableProvisional1++;
+            }
         }
 
     }
